@@ -25,8 +25,6 @@ import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.textfield.PasswordField;
 import com.vaadin.flow.component.textfield.TextField;
 
-//@Route(NAV_LOGIN_VIEW)
-//@Theme(value = Lumo.class, variant = Lumo.DARK)
 public class LoginViewOO extends Composite<HorizontalLayout> {
 
   public static final String NAV_LOGIN_VIEW = "login";

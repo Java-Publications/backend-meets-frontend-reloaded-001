@@ -14,6 +14,7 @@ Have in mind, that this is only the first part of the tutorial.
 To explore all possibilities of this tutorial you need docker installed.
 Additionally docker-compose if you want to have a look at the TDD part
 that includes full stack tests with Testbench, later.
+
 >Notice: Testbench is a commercial product from Vaadin 
 >that is available here [https://vaadin.com/testbench](https://vaadin.com/testbench)
 >To play around, you can request a trial lic.
